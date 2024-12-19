@@ -1,6 +1,6 @@
 # FlowPastHemiSphereDNS
 
-1. A set of 500 files, each for one time step with an interval Δt=0.002 (i.e. total time T=499Δt1) with the following structure (11 columns):
+1. A set of 499 files, each for one time step with an interval Δt=0.002 (i.e. total time T=498Δt) with the following structure (11 columns):
 MST time
 
 x y z ux uy uz ax ay az p PartID
